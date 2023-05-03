@@ -1,14 +1,14 @@
 baseURL = "https://example.org/"
 languageCode = "en-us"
-title = "Dayville Fire Company"
-theme = "arcana"
-copyright = "©2023. All rights reserved"
+title = "Arcana for Hugo"
+theme = "hugo-arcana"
+copyright = "© Untitled. All rights reserved"
 
 [taxonomies]
     tag = "tags"
 
 [params]
-    description = "Official website of the Dayville Volunteer Fire Company."
+    description = "A business/corporate style responsive site template."
     show_post_dates = false
 
     [[params.social]]
@@ -27,6 +27,10 @@ copyright = "©2023. All rights reserved"
         title = "LinkedIn"
         icon = "fa-linkedin-in"
         url = "#"
+    [[params.social]]
+        title = "Creative Commons"
+        icon = "fa-creative-commons"
+        url = "https://creativecommons.org/"
 
 
     [params.footer]
@@ -83,61 +87,3 @@ copyright = "©2023. All rights reserved"
             enabled = true
             header = "Get In Touch"
             action = ""
-
-[menu]
-    [[menu.main]]
-        name = "Services"
-        weight = 20
-    [[menu.main]]
-        parent = "Services"
-        name = "Drone"
-        weight = 21
-        url = "/drone/"
-    [[menu.main]]
-        parent = "Services"
-        name = "Rehabilitation"
-        weight = 22
-    [[menu.main]]
-        parent = "Services"
-        name = "Training & Education"
-        weight = 23
-    [[menu.main]]
-        parent = "Services"
-        name = "Technical Rescue"
-        weight = 24
-    [[menu.main]]
-        parent = "Technical Rescue"
-        name = "Confined Space"
-        weight = 25
-    [[menu.main]]
-        parent = "Technical Rescue"
-        name = "Vehicle Technician"
-        weight = 26
-
-    [[menu.main]]
-        name = "About"
-        weight = 50
-    [[menu.main]]
-        parent = "About"
-        name = "Our History"
-        weight = 51
-        url = "/about/history/"
-    [[menu.main]]
-        parent = "About"
-        name = "Members"
-        weight = 51
-        url = "/about/members/"
-    [[menu.main]]
-        parent = "About"
-        name = "Chief's Report"
-        weight = 52
-    [[menu.main]]
-        parent = "About"
-        name = "DVFC Club"
-        weight = 53
-        url = "/about/club/"
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
