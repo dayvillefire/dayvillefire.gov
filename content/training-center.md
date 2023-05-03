@@ -1,6 +1,6 @@
 ---
 title: "Training Center"
-description: "The Somethin Leary Training Center."
+description: "The Dennis R Lemery Training Center."
 menu: main
 weight: 40
 image: images/banner.jpg
