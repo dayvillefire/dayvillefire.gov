@@ -92,7 +92,7 @@ copyright = "© 1937-2023 Dayville Fire Company. All rights reserved"
         parent = "Services"
         name = "Drone"
         weight = 21
-        url = "/drone/"
+        url = "/services/drone/"
     [[menu.main]]
         parent = "Services"
         name = "Rehabilitation"
@@ -136,6 +136,7 @@ copyright = "© 1937-2023 Dayville Fire Company. All rights reserved"
         parent = "About"
         name = "Chief's Report"
         weight = 52
+        url = "/about/chiefs-report/"
     [[menu.main]]
         parent = "About"
         name = "DVFC Club"
