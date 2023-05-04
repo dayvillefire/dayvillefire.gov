@@ -2,7 +2,7 @@ baseURL = "https://example.org/"
 languageCode = "en-us"
 title = "Dayville Fire Company"
 theme = "arcana"
-copyright = "©2023. All rights reserved"
+copyright = "© 1937-2023 Dayville Fire Company. All rights reserved"
 
 [taxonomies]
     tag = "tags"
@@ -18,15 +18,15 @@ copyright = "©2023. All rights reserved"
     [[params.social]]
         title = "Facebook"
         icon = "fa-facebook-f"
-        url = "#"
+        url = "https://www.facebook.com/DayvilleFireCompany"
     [[params.social]]
         title = "GitHub"
         icon = "fa-github"
-        url = "#"
+        url = "https://github.com/dayvillefire"
     [[params.social]]
-        title = "LinkedIn"
-        icon = "fa-linkedin-in"
-        url = "#"
+        title = "Instagram"
+        icon = "fa-instagram"
+        url = "https://www.instagram.com/dayvillefire/"
 
 
     [params.footer]
@@ -97,22 +97,27 @@ copyright = "©2023. All rights reserved"
         parent = "Services"
         name = "Rehabilitation"
         weight = 22
+        url = "/services/rehabilitation/"
     [[menu.main]]
         parent = "Services"
         name = "Training & Education"
         weight = 23
+        url = "/services/training/"
     [[menu.main]]
         parent = "Services"
         name = "Technical Rescue"
         weight = 24
+        url = "/services/technical-rescue/"
     [[menu.main]]
         parent = "Technical Rescue"
         name = "Confined Space"
         weight = 25
+        url = "/services/technical-rescue/confined-space/"
     [[menu.main]]
         parent = "Technical Rescue"
         name = "Vehicle Technician"
         weight = 26
+        url = "/services/technical-rescue/vehicle-technican/"
 
     [[menu.main]]
         name = "About"
