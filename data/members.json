@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Michael Shabenas",
+        "description": "Fire Chief",
+        "image": "http://via.placeholder.com/300x300#thumbnail"
+    },
+    {
+        "name": "JR Adams",
+        "description": "Deputy Chief",
+        "image": "http://via.placeholder.com/300x300#thumbnail"
+    },
+    {
+        "name": "C",
+        "description": "",
+        "image": "http://via.placeholder.com/300x300#thumbnail"
+    },
+    {
+        "name": "D",
+        "description": "",
+        "image": "http://via.placeholder.com/300x300#thumbnail"
+    }
+]
