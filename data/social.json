@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Facebook",
+        "link": "https://facebook.com/DayvilleFireCompany",
+        "image": "social/facebook.svg"
+    },
+    {
+        "name": "Twitter",
+        "link": "https://twitter.com/dayvillefire",
+        "image": "social/twitter.svg"
+    },
+    {
+        "name": "Instagram",
+        "link": "https://instagram.com/dayvillefire",
+        "image": "social/instagram.svg"
+    },
+    {
+        "name": "Github",
+        "link": "https://github.com/dayvillefire",
+        "image": "social/github.svg"
+    }
+]

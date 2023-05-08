@@ -2,7 +2,7 @@
     {
         "name": "Michael Shabenas",
         "description": "Fire Chief",
-        "image": "http://via.placeholder.com/300x300#thumbnail"
+        "image": "/images/members/Chief-Michael-Shabenas.jpg#thumbnail"
     },
     {
         "name": "JR Adams",
@@ -10,13 +10,43 @@
         "image": "http://via.placeholder.com/300x300#thumbnail"
     },
     {
-        "name": "C",
-        "description": "",
+        "name": "Gahrett Bond",
+        "description": "Assistant Chief",
         "image": "http://via.placeholder.com/300x300#thumbnail"
     },
     {
-        "name": "D",
-        "description": "",
+        "name": "Jeffreu Buchbinder",
+        "description": "House Captain",
+        "image": "http://via.placeholder.com/300x300#thumbnail"
+    },
+    {
+        "name": "Jessica Leader",
+        "description": "Fire Lieutenant",
+        "image": "/images/members/Lt-Jessica-Leader.jpg#thumbnail"
+    },
+    {
+        "name": "Andrew Osborne",
+        "description": "Rescue Lieutenant",
+        "image": "http://via.placeholder.com/300x300#thumbnail"
+    },
+    {
+        "name": "Carson Hadley",
+        "description": "EMS Lieutenant",
+        "image": "/images/members/Lt-Carson-Hadley.jpg#thumbnail"
+    },
+    {
+        "name": "Dylan Hamill",
+        "description": "Fire Lieutenant",
+        "image": "http://via.placeholder.com/300x300#thumbnail"
+    },
+    {
+        "name": "Karen Bond",
+        "description": "EMS Lieutenant",
+        "image": "/images/members/Lt-Karen-Bond.jpg#thumbnail"
+    },
+    {
+        "name": "Chris Hohler",
+        "description": "Rescue Lieutenant",
         "image": "http://via.placeholder.com/300x300#thumbnail"
     }
 ]
