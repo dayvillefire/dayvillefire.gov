@@ -5,8 +5,8 @@
             {{- range .item.items }}
                 <section class="col-{{ $item_cols }} col-12-narrower">
                     <div class="box highlight">
-                        <i class="icon solid major {{ .icon }}"></i>
-                        <h3>{{ .title }}</h3>
+                        <a href="{{ .url }}"><i class="icon solid major {{ .icon }}"></i></a>
+                        <h3><a href="{{ .url }}">{{ .title }}</a></h3>
                         <p>{{ .content | markdownify }}</p>
                     </div>
                 </section>

@@ -11,17 +11,20 @@ items:
     items:
     - title: Drone
       icon: fa-paper-plane
+      url: /services/drone/
       content: >
         Home to Dayville's Drone Team and UAV-163 -- capable of standard and
         infrared imaging, and staffed by FAA part 107 licensed pilots.
     - title: Rehabilitation
       icon: fa-heartbeat
+      url: /services/rehabilitation/
       content: >
         Hosting the Killingly Rehabilitation Team, an NFPA 1584 compliant firefighter
         rehabilitation team, available on request to any agency in the region through
         QVEC dispatch.
     - title: Technical Rescue
       icon: fa-wrench
+      url: /services/technical-rescue/
       content: >
         NFPA 1006 certified technical rescue team, specializing in Confined Space and
         Vehicle Extrication.
