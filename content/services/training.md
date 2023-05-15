@@ -10,3 +10,7 @@ heroBackground: 'services/service2.jpg'
 ---
 
 Regionalized training resources, distance and in-person, including EMS, live fire, and rescue.
+
+## CPR
+
+AHA BLS and HeartSaver classes are available on a monthly basis. If you are interested, please contact [cpr @ dayvillefire.gov](mailto:cpr@dayvillefire.gov).
