@@ -3,13 +3,16 @@ title: The Dayville Fire Company
 image: http://via.placeholder.com/1200x500
 date: "2020-01-01T00:00:00"
 tags:
-  - example
-  - lorem ipsum
+  - history
 ---
 The **Dayville Fire Company** is a combination fire company that protects the village of Dayville from medical, fire, hazardous material, and environmental emergencies. The Dayville Fire Company was established in 1937 to protect the ever-growing village of Dayville, but the roots of fire protection in Dayville can be traced back to the mid to late 1800s when the fire protection for the local mills would also respond to fires in the village.
+
 <!-- more -->
+
 The Dayville Fire Company covers an area that is about nine square miles in size and is one of the most diverse and busy fire districts – not only in the <a href="https://www.killingly.org/">Town of Killingly</a> but also in all of Windham County. Dayville is the center of the Town of Killingly and covers the main intersection of Route 12 and Route 101, which is the location of many commercial buildings and shopping plazas. We also cover the town’s industrial park, housing several large warehouses, distribution centers, and manufacturing facilities; some of these include the town’s largest employer: the fifth largest <a href="https://www.fritolay.com/">Frito Lay</a> plant in North America, and a three-turbine natural gas power plant. We also protect <a href="https://qvcc.edu/">Quinebaug Valley Community College</a>, the <a href="https://www.killinglyschools.org/">Killingly elementary and middle schools</a>, an alternative high school, and several other preschools and daycare facilities. We also cover about six miles of Interstate 395, have multiple large elderly housing complexes, and a large residential base.
+
 <!-- more -->
+
 <div class="container text-center">
   <div class="row">
     <div class="col-lg-12">
