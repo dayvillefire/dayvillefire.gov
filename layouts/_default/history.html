@@ -1,0 +1,47 @@
+{{ define "main" }}
+
+{{ $list := (.Site.Data.history) }}
+{{ $len := (len $list) }}
+
+{{ .Content }}
+
+<div class="container text-center">
+    <div class="row">
+      <div class="col-lg-12">
+        <!-- <h3 class="text-center">Timeline Title</h3>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </p> -->
+        <ul class="timeline">
+
+        {{ range $i, $p := .Site.Data.history }}
+
+          <li {{ if (modBool $i 2) }}class="timeline-inverted"{{ end }}>
+            <div class="timeline-image">
+              <img class="img-fluid" src="{{ .image }}" alt="{{ .imageDescription }}">
+            </div>
+            <div class="timeline-panel">
+              <div class="timeline-heading">
+                <h4 style="margin-top: 0;">{{ .year }}</h4>
+                <h4 class="subheading">{{ .title }}</h4>
+              </div>
+              <div class="timeline-body">
+                <p class="text-muted">
+                    {{ .description }}
+                </p>
+              </div>
+            </div>
+            {{ if eq (add $i 1) $len }}
+            {{ else }}
+            <div class="line"></div>
+            {{ end }}
+          </li>
+
+          {{ end }}
+
+        </ul>
+      </div>
+    </div>
+  </div>
+
+{{ end }}
