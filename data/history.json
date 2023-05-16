@@ -2,43 +2,43 @@
     {
         "year": "1937",
         "title": "Founded",  
-        "description": "The Dayville Volunteer Fire Company was founded by Byron F Barrowclough as a ‘one-man’ fire department, as a response to the Assawauga Mill’s fire brigade being unable to provide fire protection services for the Village of Dayville.",
-        "image": "https://dayvillefire.org/img/about/prym.jpg#thumbnail",
-        "imageDescription": ""
+        "description": "The Dayville Volunteer Fire Company was founded by **Byron F. Barrowclough** as a ‘one-man’ fire department.",
+        "image": "/images/about/prym.jpg#thumbnail",
+        "imageDescription": "/images/about/prym.jpg#thumbnail"
     },
     {
         "year": "1939",
         "title": "Incorporated",
-        "description": "The Dayville Volunteer Fire Company was incorporated into a three-company operation, with B. Russell Watt as Chief.",
-        "image": "https://dayvillefire.org/img/about/prym.jpg#thumbnail",
+        "description": "The Dayville Volunteer Fire Company was incorporated into a three-company operation, with **D. Russell Watt** as Chief.",
+        "image": "/images/about/prym.jpg#thumbnail",
         "imageDescription": ""
     },
     {
         "year": "1959",
         "title": "District",
         "description": "The Dayville Fire District was created as a special taxing district.",
-        "image": "https://dayvillefire.org/img/about/prym.jpg#thumbnail",
+        "image": "/images/about/prym.jpg#thumbnail",
         "imageDescription": ""
     },
     {
         "year": "1977",
         "title": "New Station",
         "description": "A new, larger station was built facing Hartford Pike.",
-        "image": "https://dayvillefire.org/img/about/prym.jpg#thumbnail",
+        "image": "/images/about/station.jpg#thumbnail",
         "imageDescription": ""
     },
     {
         "year": "2015",
         "title": "Training Center",
-        "description": "The Lt. Dennis R Lemery Memorial Training Center opens, offering fire training services for the fire companies in Killingly and the surrounding areas.",
-        "image": "https://dayvillefire.org/img/about/prym.jpg#thumbnail",
+        "description": "The [Lt. Dennis R Lemery Memorial Training Center](/training-center/) opens, offering fire training services for the fire companies in Killingly and the surrounding areas.",
+        "image": "/images/about/training-center.jpg#thumbnail",
         "imageDescription": ""
     },
     {
         "year": "2022",
         "title": "Regional Teams",
         "description": "Regional drone, technical rescue, and rehabiltiation teams are formed to assist mutual aid partners.",
-        "image": "https://dayvillefire.org/img/about/prym.jpg#thumbnail",
+        "image": "/images/about/technical-rescue.jpg#thumbnail",
         "imageDescription": ""
     }
 ]

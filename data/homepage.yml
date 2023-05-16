@@ -1,7 +1,7 @@
 banner:
   enable: true
   image: "images/banner1.jpg"
-  contents: "**Dayville Fire Company:** _Home of the Angry Beaver_"
+  contents: "**Dayville Fire Company:** _Serving Killingly Since 1937_"
   button:
     contents: "Join!"
     url: https://www.cognitoforms.com/DayvilleFireCompany/dayvillefirecompanyapplicationformembership
@@ -28,9 +28,9 @@ items:
       content: >
         NFPA 1006 certified technical rescue team, specializing in Confined Space and
         Vehicle Extrication.
-  - type: heading
-    heading: A gigantic heading you can use for whatever
-    contents: With a much smaller subtitle hanging out just below it
+#  - type: heading
+#    heading: A gigantic heading you can use for whatever
+#    contents: With a much smaller subtitle hanging out just below it
   - type: posts
     heading: Recent News
     content_type: news

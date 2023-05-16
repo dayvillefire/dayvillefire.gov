@@ -34,6 +34,9 @@ copyright = "© 1937-2023 Dayville Fire Company. All rights reserved"
         [[params.footer.links]]
             header = "Services"
         [[params.footer.links.links]]
+            title = "EMS"
+            url = "/services/emergency-medical-services/"
+        [[params.footer.links.links]]
             title = "Training"
             url = "/services/training/"
         [[params.footer.links.links]]
@@ -50,7 +53,7 @@ copyright = "© 1937-2023 Dayville Fire Company. All rights reserved"
             header = "About"
         [[params.footer.links.links]]
             title = "History"
-            url = "/about/histtory/"
+            url = "/about/history/"
         [[params.footer.links.links]]
             title = "Members"
             url = "/about/members/"
@@ -79,6 +82,11 @@ copyright = "© 1937-2023 Dayville Fire Company. All rights reserved"
     [[menu.main]]
         name = "Services"
         weight = 20
+    [[menu.main]]
+        parent = "Services"
+        name = "EMS"
+        weight = 21
+        url = "/services/emergency-medical-services/"
     [[menu.main]]
         parent = "Services"
         name = "Drone"
@@ -148,6 +156,70 @@ copyright = "© 1937-2023 Dayville Fire Company. All rights reserved"
         name = "District"
         weight = 56
         url = "/about/district/"
+
+    [[menu.main]]
+        name = "Resources"
+        weight = 60
+    [[menu.main]]
+        parent = "Resources"
+        name = "QVEC Dispatch"
+        weight = 61
+        url = "https://www.qvec.org/"
+    [[menu.main]]
+        parent = "Resources"
+        name = "Fire Marshal"
+        weight = 62
+        url = "https://www.killingly.org/fire-marshal"
+    [[menu.main]]
+        parent = "Resources"
+        name = "Companies"
+        weight = 63
+        url = "/about/companies/"
+    [[menu.main]]
+        parent = "Resources"
+        name = "Apparatuses"
+        weight = 64
+        url = "/about/apparatuses/"
+    [[menu.main]]
+        parent = "Resources"
+        name = "Chief's Report"
+        weight = 65
+        url = "/about/chiefs-report/"
+    [[menu.main]]
+        parent = "Resources"
+        name = "Club"
+        weight = 66
+        url = "/about/club/"
+    [[menu.main]]
+        parent = "Resources"
+        name = "Other Departments"
+        weight = 67
+    [[menu.main]]
+        parent = "Other Departments"
+        name = "Williamsville #60"
+        weight = 70
+        url = "https://www.facebook.com/WilliamsvilleFireEngineCo/"
+    [[menu.main]]
+        parent = "Other Departments"
+        name = "Danielson #61"
+        weight = 71
+        url = "https://danielsonfire.com"
+    [[menu.main]]
+        parent = "Other Departments"
+        name = "Attawaugan #62"
+        weight = 72
+        url = "https://www.facebook.com/profile.php?id=100064783176336"
+    [[menu.main]]
+        parent = "Other Departments"
+        name = "East Killingly #64"
+        weight = 74
+        url = "https://www.facebook.com/eastkillinglyfd/"
+    [[menu.main]]
+        parent = "Other Departments"
+        name = "South Killingly #65"
+        weight = 75
+        url = "https://southkillinglyfire.org/"
+
 
 [markup]
   [markup.goldmark]

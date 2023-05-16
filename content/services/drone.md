@@ -11,3 +11,12 @@ heroBackground: 'services/service2.jpg'
 ---
 
 Proud to host Killingly's drone team, staffed by FAA Part 107-licensed pilots, for fire recon and search and rescue.
+
+## Membership
+
+Any fire-service affiliated personnel (members in good standing of area departments) can join the drone team with the permission of their Fire Chief. Training includes both FAA part 107 certification and hands-on training.
+
+## Contact
+
+* Coordinator : Bryce Pratt
+* Contact Email : [drone@dayvillefire.gov](mailto:drone@dayvillefire.gov)

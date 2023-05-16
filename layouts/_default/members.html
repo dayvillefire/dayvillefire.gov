@@ -1,15 +1,19 @@
 {{ define "main" }}
 
+<h2>Officers</h2>
+
 <div class="d-flex flex-wrap justify-content-around my-4 text-center">
 
-    {{ range .Site.Data.members }}
+    {{ range .Site.Data.officers }}
         <div>
             <img src="{{ .image }}" />
-            <h5>{{ .name }}</h5>
+            <h5>{{ .name }} (Car {{ .car }})</h5>
             <p>{{ .description }}</p>
         </div>
     {{ end }}
     
 </div>
+
+{{ .Content }}
 
 {{ end }}
