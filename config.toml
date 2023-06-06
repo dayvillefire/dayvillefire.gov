@@ -172,26 +172,6 @@ copyright = "© 1937-2023 Dayville Fire Company. All rights reserved"
         url = "https://www.killingly.org/fire-marshal"
     [[menu.main]]
         parent = "Resources"
-        name = "Companies"
-        weight = 63
-        url = "/about/companies/"
-    [[menu.main]]
-        parent = "Resources"
-        name = "Apparatuses"
-        weight = 64
-        url = "/about/apparatuses/"
-    [[menu.main]]
-        parent = "Resources"
-        name = "Chief's Report"
-        weight = 65
-        url = "/about/chiefs-report/"
-    [[menu.main]]
-        parent = "Resources"
-        name = "Club"
-        weight = 66
-        url = "/about/club/"
-    [[menu.main]]
-        parent = "Resources"
         name = "Other Departments"
         weight = 67
     [[menu.main]]
