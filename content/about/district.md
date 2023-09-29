@@ -22,10 +22,10 @@ Regular meetings are held on the third Wednesday of every month in the hall at t
 * President : Frederick E. Jacobi
 * Vice President : Michael Hewko
 * Seretary : Kelley Shaver
-* Treasurer : Cheryl Bryer
+* Treasurer : Keri Vanasse
 * Members at Large :
   - Jeffrey Buchbinder
   - Larry Groh
   - Dylan Hamill
-  - Christopher Viens
+  - Eric Lemery
   - Thomas Weaver

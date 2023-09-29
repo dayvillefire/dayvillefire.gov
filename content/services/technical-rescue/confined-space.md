@@ -9,4 +9,9 @@ heroSubHeading: "Technical rescue services including NECT's only confined space 
 heroBackground: 'services/service1.jpg'
 ---
 
-lorem ipsum dolor
+The **Dayville Fire Company** hosts an NFPA 1006 / OSHA 29 CFR 1910.46 certified confined space team, available to the region by request.
+
+## Contact
+
+* Coordinator : Lt. Andrew Osborne
+* Contact Email : [techrescue @ dayvillefire.gov](mailto:techrescue@dayvillefire.gov)

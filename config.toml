@@ -116,7 +116,7 @@ copyright = "© 1937-2023 Dayville Fire Company. All rights reserved"
         parent = "Technical Rescue"
         name = "Vehicle Technician"
         weight = 26
-        url = "/services/technical-rescue/vehicle-technican/"
+        url = "/services/technical-rescue/vehicle-technician/"
 
     [[menu.main]]
         name = "About"

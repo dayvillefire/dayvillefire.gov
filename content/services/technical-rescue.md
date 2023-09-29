@@ -9,4 +9,5 @@ heroSubHeading: "Technical rescue services including NECT's only confined space 
 heroBackground: 'services/service1.jpg'
 ---
 
-Dayville is proud to host a variety of technical rescue services, including Northeastern Connecticut's only confined space rescue team.
+The **Dayville Fire Company** is proud to host a variety of technical rescue services, including Northeastern Connecticut's only [confined space rescue team](/services/technical-rescue/confined-space/).
+

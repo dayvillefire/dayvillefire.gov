@@ -21,3 +21,7 @@ The Killingly Rehabilitation Unit is staffed by a minimum of a EMT Rehabilitatio
 
 The Killingly Rehabilitation Unit is funded by the [Dayville Volunteer Fire Company](/about/club/) and community donations.
 
+## Contact
+
+* Coordinator : Lt. Karen Bond
+* Contact Email : [rehab @ dayvillefire.gov](mailto:rehab@dayvillefire.gov)

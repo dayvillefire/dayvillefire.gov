@@ -21,7 +21,7 @@ The Dayville Fire Company consists of four logical division companies, each devo
 ## Rescue Company \#2
 
 * **Mascot** : Mongoose
-* **Motto** : "salva animam, confractus stercore"
+* **Motto** : "Salva animam, Confractus stercore"
 * **Officer(s)** : Lt. Andrew Osborne, Lt. Christopher Hohler
 
 ## EMS Company \#3

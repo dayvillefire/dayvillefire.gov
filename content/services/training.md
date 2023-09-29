@@ -14,3 +14,8 @@ Regionalized training resources, distance and in-person, including EMS, live fir
 ## CPR
 
 AHA BLS and HeartSaver classes are available on a monthly basis. If you are interested, please contact [cpr @ dayvillefire.gov](mailto:cpr@dayvillefire.gov).
+
+## Contact
+
+* Coordinator : Lt. Karen Bond
+* Contact Email : [cpr @ dayvillefire.gov](mailto:cpr@dayvillefire.gov)
