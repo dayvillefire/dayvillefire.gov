@@ -2,11 +2,18 @@
  * Put your custom CSS into your (not the theme's) assets/sass/custom.scss
  */
 
+// ------------------------------------------------------------------------------------------------
+// All #thumbnail images should be circular
+// ------------------------------------------------------------------------------------------------
+
 img[src*="#thumbnail"] {
     border-radius: 50%;
 }
 
+// ------------------------------------------------------------------------------------------------
 // Override the header for a nicer look
+// ------------------------------------------------------------------------------------------------
+
 #header { 
   padding: 0 0 0 0; /* keep this totally flat so we can make the graphics seamless */
   background: url(images/dayvillefire2-header.png) #ff5555 no-repeat top center;
@@ -18,9 +25,28 @@ img[src*="#thumbnail"] {
   }
 }
 
+// ------------------------------------------------------------------------------------------------
+// Display two columns for membership list (layouts/_default/members.html)
+// ------------------------------------------------------------------------------------------------
+
+UL.membership-list {
+  column-count: 2;
+  column-gap: 40px;
+}
+@media screen and (max-width: 80em) {
+  UL.membership-list {
+    column-count: 1;
+    column-gap: 0px;
+  }  
+}
+
 h5 {
     margin-bottom: 0;
 }
+
+// ------------------------------------------------------------------------------------------------
+// Fix timeline display (layouts/_default/history.html)
+// ------------------------------------------------------------------------------------------------
 
 .timeline {
    position: relative;
@@ -279,6 +305,10 @@ h5 {
       display: none;
     }
 }
+
+// ------------------------------------------------------------------------------------------------
+// Breadcrumb display (themes/arcana/layouts/partials/breadcrumbs.html)
+// ------------------------------------------------------------------------------------------------
 
 /*
 .breadcrumb {

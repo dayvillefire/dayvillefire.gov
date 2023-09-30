@@ -49,9 +49,9 @@
         <div class="col-lg-12">
             <h2>Deceased Life Members</h2>
             <ul>
-            {  range .Site.data.deceased }
-                <li>{ .name }</li>
-            { end }
+		        {{  range $i, $p := .Site.Data.deceased }}
+		        <li>{{ .name }}, {{ .rank }} ({{ .birth }} - {{ .death }})</li>
+		        {{ end }}
             </ul>
         </div>
     </div>
