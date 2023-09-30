@@ -63,9 +63,9 @@ copyright = "© 1937-2023 Dayville Fire Company. All rights reserved"
         [[params.footer.links.links]]
             title = "Apparatuses"
             url = "/about/apparatuses/"
-        [[params.footer.links.links]]
-            title = "Chief's Report"
-            url = "/about/chiefs-report/"
+        #[[params.footer.links.links]]
+        #    title = "Chief's Report"
+        #    url = "/about/chiefs-report/"
         [[params.footer.links.links]]
             title = "Club"
             url = "/about/club/"
@@ -141,11 +141,11 @@ copyright = "© 1937-2023 Dayville Fire Company. All rights reserved"
         name = "Apparatuses"
         weight = 53
         url = "/about/apparatuses/"
-    [[menu.main]]
-        parent = "About"
-        name = "Chief's Report"
-        weight = 54
-        url = "/about/chiefs-report/"
+    #[[menu.main]]
+    #    parent = "About"
+    #    name = "Chief's Report"
+    #    weight = 54
+    #    url = "/about/chiefs-report/"
     [[menu.main]]
         parent = "About"
         name = "Club"

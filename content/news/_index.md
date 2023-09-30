@@ -1,5 +1,5 @@
 ---
-title: News
-menu: main
-weight: 30
+#title: News
+#menu: main
+#weight: 30
 ---
