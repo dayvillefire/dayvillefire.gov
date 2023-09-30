@@ -13,6 +13,8 @@ heroBackground: 'images/rehab-hero.jpg'
 
 [NFPA 1584, 2022 edition](https://link.nfpa.org/free-access/publications/1584/2022) compliant firefighter rehabilitation provided by the regional Killingly Rehabilitation Team, hosted by the Dayville Fire Company.
 
+![](/images/rehab-brochure.jpg)
+
 ## Training and Staffing
 
 The Killingly Rehabilitation Unit is staffed by a minimum of a EMT Rehabilitation officer and 1-3 certified medical personnel
