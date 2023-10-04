@@ -9,7 +9,7 @@
         "name": "JR Adams",
         "description": "Deputy Chief",
         "car": 163,
-        "image": "http://via.placeholder.com/300x300#thumbnail"
+        "image": "/images/members/Dep-Chief-JR-Adams.jpg#thumbnail"
     },
     {
         "name": "Gahrett Bond",
@@ -45,7 +45,7 @@
         "name": "Dylan Hamill",
         "description": "Fire Lieutenant",
         "car": 1163,
-        "image": "http://via.placeholder.com/300x300#thumbnail"
+        "image": "/images/members/Lt-Dylan-Hamill.jpg#thumbnail"
     },
     {
         "name": "Karen Bond",
@@ -57,6 +57,6 @@
         "name": "Chris Hohler",
         "description": "Rescue Lieutenant",
         "car": 1363,
-        "image": "http://via.placeholder.com/300x300#thumbnail"
+        "image": "/images/members/Lt-Chris-Hohler.jpg#thumbnail"
     }
 ]
