@@ -20,7 +20,7 @@
             <h2>Life Members (deceased)</h2>
             <ul class="membership-list">
 		        {{  range $i, $p := .Site.Data.deceased }}
-		        <li>{{ .name }}, {{ .rank }} ({{ .birth }} - {{ .death }})</li>
+		        <li>{{ if .grave }}<a href="{{ .grave }}">{{ end }}{{ .name }}, {{ .rank }} ({{ .birth }} - {{ .death }}){{ if .grave }}</a>{{ end }}</li>
 		        {{ end }}
             </ul>
         </div>
