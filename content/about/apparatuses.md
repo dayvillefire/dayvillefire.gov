@@ -29,3 +29,8 @@ tags:
 * Rescue 163 (Light rescue)
 * Service 263 (Rehabilitation unit)
 
+## Other Apparatuses
+
+* Car 63 (Chief officer vehicle, pickup truck)
+* UAV 163 (drone unit)
+* Engine 43 (retired engine, Continental Compac)
