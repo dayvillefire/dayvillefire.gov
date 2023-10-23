@@ -1,7 +1,7 @@
 baseURL = "https://dayvillefire.gov/"
 languageCode = "en-us"
 title = "Dayville Fire Company"
-theme = "arcana"
+theme = [ "arcana", "hugo-chart" ]
 copyright = "© 1937-2023 Dayville Fire Company. All rights reserved"
 
 [taxonomies]
