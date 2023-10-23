@@ -406,3 +406,11 @@ h5 {
  .breadcrumb li a:hover:after { 
    border-left-color: hsla(34, 85%, 25%, 1) !important; 
  }
+
+// ------------------------------------------------------------------------------------------------
+// Override the header for a nicer look
+// ------------------------------------------------------------------------------------------------
+
+.chartjs-render-monitor {
+  display: inline-block !important;
+}
