@@ -28,7 +28,7 @@ The Dayville Fire Company consists of four logical division companies, each devo
 
 * **Mascot** : Star of life
 * **Motto** : "First to care, first to act, nobody does it better"
-* **Officer(s)** : Lt. Carson Hadley, Lt. Karen Bond
+* **Officer(s)** : Capt. Carson Hadley, Lt. Karen Bond
 
 ## Fire Police Company \#4
 

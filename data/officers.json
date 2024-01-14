@@ -24,6 +24,12 @@
         "image": "http://via.placeholder.com/300x300#thumbnail"
     },
     {
+        "name": "Carson Hadley",
+        "description": "EMS Captain",
+        "car": 763,
+        "image": "/images/members/Lt-Carson-Hadley.jpg#thumbnail"
+    },
+    {
         "name": "Jessica Leader",
         "description": "Fire Lieutenant",
         "car": 863,
@@ -36,10 +42,10 @@
         "image": "http://via.placeholder.com/300x300#thumbnail"
     },
     {
-        "name": "Carson Hadley",
+        "name": "Karen Bond",
         "description": "EMS Lieutenant",
         "car": 1063,
-        "image": "/images/members/Lt-Carson-Hadley.jpg#thumbnail"
+        "image": "/images/members/Lt-Karen-Bond.jpg#thumbnail"
     },
     {
         "name": "Dylan Hamill",
@@ -48,15 +54,9 @@
         "image": "/images/members/Lt-Dylan-Hamill.jpg#thumbnail"
     },
     {
-        "name": "Karen Bond",
-        "description": "EMS Lieutenant",
-        "car": 1263,
-        "image": "/images/members/Lt-Karen-Bond.jpg#thumbnail"
-    },
-    {
         "name": "Chris Hohler",
         "description": "Rescue Lieutenant",
-        "car": 1363,
+        "car": 1263,
         "image": "/images/members/Lt-Chris-Hohler.jpg#thumbnail"
     }
 ]
