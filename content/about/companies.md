@@ -16,22 +16,22 @@ The Dayville Fire Company consists of four logical division companies, each devo
 
 * **Mascot** : Dragon
 * **Motto** : "Fire suppression through focused aggression"
-* **Officer(s)** : Lt. Jessica Leader, Lt. Dylan Hamill
+* **Officer(s)** : Lt. Jessica Leader, Lt. Christopher Hohler
 
 ## Rescue Company \#2
 
 * **Mascot** : Mongoose
 * **Motto** : "Salva animam, Confractus stercore"
-* **Officer(s)** : Lt. Andrew Osborne, Lt. Christopher Hohler
+* **Officer(s)** : Lt. Andrew Osborne, Lt. Dylan Hamill
 
 ## EMS Company \#3
 
 * **Mascot** : Star of life
 * **Motto** : "First to care, first to act, nobody does it better"
-* **Officer(s)** : Capt. Carson Hadley, Lt. Karen Bond
+* **Officer(s)** : Capt. Carson Hadley
 
 ## Fire Police Company \#4
 
 * **Mascot** : Honey badger
 * **Motto** : "Fierce and fearless, protecting our own"
-* **Officer(s)** : Capt. Michael Bryer
+* **Officer(s)** : Capt. Michael Bryer, Lt. Arnold Baton

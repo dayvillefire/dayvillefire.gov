@@ -25,5 +25,5 @@ The Killingly Rehabilitation Unit is funded by the [Dayville Volunteer Fire Comp
 
 ## Contact
 
-* Coordinators : Lt. Karen Bond, David A. Izzo, Sr.
+* Coordinator : David A. Izzo, Sr.
 * Contact Email : [rehab @ dayvillefire.gov](mailto:rehab@dayvillefire.gov)

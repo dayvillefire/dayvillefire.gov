@@ -18,8 +18,18 @@ Members of the Dayville Fire Company are automatically members of the Dayville V
 
 Members who have been active for twenty or more years can petition to become life members.
 
+## Club Officers
+
+* President : Jeffrey Buchbinder
+* Vice President : Carson Hadley
+* Secretary : Evan Bergeron
+* Treasurer : David Izzo, Sr.
+
 ## Presidents of the Dayville Volunteer Fire Company
 
 * 2018-present : Jeffrey Buchbinder
 * 2016-2018 : James Beaudoin
-* ...
+* 2002 : Susan Johnson
+* 1999 : John Ogozalek
+* 1998 : Michael Bradley
+* ... (the list is still being updated from old meeting minutes) ...

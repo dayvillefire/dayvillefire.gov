@@ -15,13 +15,13 @@
         "name": "Gahrett Bond",
         "description": "Assistant Chief",
         "car": 263,
-        "image": "http://via.placeholder.com/300x300#thumbnail"
+        "image": "/images/members/blank.jpg#thumbnail"
     },
     {
         "name": "Jeffrey Buchbinder",
         "description": "House Captain",
         "car": 463,
-        "image": "http://via.placeholder.com/300x300#thumbnail"
+        "image": "/images/members/blank.jpg#thumbnail"
     },
     {
         "name": "Carson Hadley",
@@ -39,13 +39,7 @@
         "name": "Andrew Osborne",
         "description": "Rescue Lieutenant",
         "car": 963,
-        "image": "http://via.placeholder.com/300x300#thumbnail"
-    },
-    {
-        "name": "Karen Bond",
-        "description": "EMS Lieutenant",
-        "car": 1063,
-        "image": "/images/members/Lt-Karen-Bond.jpg#thumbnail"
+        "image": "/images/members/blank.jpg#thumbnail"
     },
     {
         "name": "Dylan Hamill",
@@ -58,5 +52,17 @@
         "description": "Rescue Lieutenant",
         "car": 1263,
         "image": "/images/members/Lt-Chris-Hohler.jpg#thumbnail"
+    },
+    {
+        "name": "Michael Bryer",
+        "description": "Fire Police Captain",
+        "car": 1563,
+        "image": "/images/members/blank.jpg#thumbnail"
+    },
+    {
+        "name": "Arnold Baton",
+        "description": "Fire Police Lieutenant",
+        "car": 1663,
+        "image": "/images/members/blank.jpg#thumbnail"
     }
 ]

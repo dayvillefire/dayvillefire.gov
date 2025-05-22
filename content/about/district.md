@@ -25,7 +25,7 @@ Regular meetings are held on the third Wednesday of every month in the hall at t
 * Treasurer : Keri Vanasse
 * Members at Large :
   - Jeffrey Buchbinder
-  - Larry Groh
+  - Lawrence Groh, Jr.
   - Dylan Hamill
   - Eric Lemery
   - Thomas Weaver

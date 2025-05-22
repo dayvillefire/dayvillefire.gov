@@ -2,7 +2,7 @@ baseURL = "https://dayvillefire.gov/"
 languageCode = "en-us"
 title = "Dayville Fire Company"
 theme = [ "arcana", "hugo-chart" ]
-copyright = "© 1937-2023 Dayville Fire Company. All rights reserved"
+copyright = "© 1937-2025 Dayville Fire Company. All rights reserved"
 
 [taxonomies]
     tag = "tags"
@@ -14,7 +14,7 @@ copyright = "© 1937-2023 Dayville Fire Company. All rights reserved"
     [[params.social]]
         title = "Twitter"
         icon = "fa-twitter"
-        url = "#"
+        url = "https://twitter.com/dayvillefire"
     [[params.social]]
         title = "Facebook"
         icon = "fa-facebook-f"
@@ -27,7 +27,10 @@ copyright = "© 1937-2023 Dayville Fire Company. All rights reserved"
         title = "Instagram"
         icon = "fa-instagram"
         url = "https://www.instagram.com/dayvillefire/"
-
+    [[params.social]]
+        title = "Bluesky"
+        icon = "fa-bluesky"
+        url = "https://bsky.app/profile/dayvillefire.gov"
 
     [params.footer]
 
